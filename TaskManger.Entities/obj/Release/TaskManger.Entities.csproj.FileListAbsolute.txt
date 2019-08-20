@@ -1,0 +1,5 @@
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskManger.Entities\bin\Release\TaskManger.Entities.dll
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskManger.Entities\bin\Release\TaskManger.Entities.pdb
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskManger.Entities\obj\Release\TaskManger.Entities.dll
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskManger.Entities\obj\Release\TaskManger.Entities.pdb
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskManger.Entities\obj\Release\TaskManger.Entities.csprojResolveAssemblyReference.cache

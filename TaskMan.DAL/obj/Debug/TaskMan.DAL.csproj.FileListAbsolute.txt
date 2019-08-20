@@ -1,0 +1,19 @@
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskMan.DAL\bin\Debug\TaskMan.DAL.dll.config
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskMan.DAL\bin\Debug\TaskMan.DAL.dll
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskMan.DAL\bin\Debug\TaskMan.DAL.pdb
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskMan.DAL\bin\Debug\EntityFramework.dll
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskMan.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskMan.DAL\bin\Debug\EntityFramework.xml
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskMan.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskMan.DAL\obj\Debug\TaskMan.DAL.dll
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskMan.DAL\obj\Debug\TaskMan.DAL.pdb
+C:\Assignment\5th final\Task_Manger.API\TaskMan.DAL\bin\Debug\TaskMan.DAL.dll.config
+C:\Assignment\5th final\Task_Manger.API\TaskMan.DAL\bin\Debug\TaskMan.DAL.dll
+C:\Assignment\5th final\Task_Manger.API\TaskMan.DAL\bin\Debug\TaskMan.DAL.pdb
+C:\Assignment\5th final\Task_Manger.API\TaskMan.DAL\bin\Debug\EntityFramework.dll
+C:\Assignment\5th final\Task_Manger.API\TaskMan.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Assignment\5th final\Task_Manger.API\TaskMan.DAL\bin\Debug\EntityFramework.xml
+C:\Assignment\5th final\Task_Manger.API\TaskMan.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Assignment\5th final\Task_Manger.API\TaskMan.DAL\obj\Debug\TaskMan.DAL.csprojResolveAssemblyReference.cache
+C:\Assignment\5th final\Task_Manger.API\TaskMan.DAL\obj\Debug\TaskMan.DAL.dll
+C:\Assignment\5th final\Task_Manger.API\TaskMan.DAL\obj\Debug\TaskMan.DAL.pdb

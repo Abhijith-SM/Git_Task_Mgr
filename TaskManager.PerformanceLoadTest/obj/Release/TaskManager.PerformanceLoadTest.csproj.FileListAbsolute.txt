@@ -1,0 +1,14 @@
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskManager.PerformanceLoadTest\bin\Release\TaskManager.PerformanceLoadTest.dll
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskManager.PerformanceLoadTest\bin\Release\TaskManager.PerformanceLoadTest.pdb
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskManager.PerformanceLoadTest\bin\Release\NBench.dll
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskManager.PerformanceLoadTest\bin\Release\Newtonsoft.Json.dll
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskManager.PerformanceLoadTest\bin\Release\TaskMan.DAL.dll
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskManager.PerformanceLoadTest\bin\Release\EntityFramework.dll
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskManager.PerformanceLoadTest\bin\Release\TaskMan.DAL.pdb
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskManager.PerformanceLoadTest\bin\Release\TaskMan.DAL.dll.config
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskManager.PerformanceLoadTest\bin\Release\Newtonsoft.Json.pdb
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskManager.PerformanceLoadTest\bin\Release\Newtonsoft.Json.xml
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskManager.PerformanceLoadTest\bin\Release\EntityFramework.xml
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskManager.PerformanceLoadTest\obj\Release\TaskManager.PerformanceLoadTest.csprojResolveAssemblyReference.cache
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskManager.PerformanceLoadTest\obj\Release\TaskManager.PerformanceLoadTest.dll
+C:\Shah-FSE\CAPSULE\Task_Manger.API\TaskManager.PerformanceLoadTest\obj\Release\TaskManager.PerformanceLoadTest.pdb
